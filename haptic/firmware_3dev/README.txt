@@ -1,0 +1,1 @@
+install Encoder library using Arduino library manager
